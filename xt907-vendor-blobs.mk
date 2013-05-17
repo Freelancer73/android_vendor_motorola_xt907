@@ -23,7 +23,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     vendor/motorola/xt907/proprietary/bin/ap_gain.bin:system/bin/ap_gain.bin \
     vendor/motorola/xt907/proprietary/bin/ap_gain_mmul.bin:system/bin/ap_gain_mmul.bin \
-    vendor/motorola/xt907/proprietary/bin/ATFWD-daemon:system/bin/ATFWD-daemon \
     vendor/motorola/xt907/proprietary/bin/batch:system/bin/batch \
     vendor/motorola/xt907/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
     vendor/motorola/xt907/proprietary/bin/btnvtool:system/bin/btnvtool \
